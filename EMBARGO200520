@@ -1,0 +1,2 @@
+Tipo_Id_demandado,Id_demandado,Nombre_demandado,Tipo_Id_demandante,Id_demandante,Nombre_demandante,No_Oficio,No_proceso,Limite_Monto_Embargo,Fecha_Radicación,Hora_Radicación,Tipo_embargo,Tipo_operacion,Cta_abono_embargo,Observación
+Client,825012655,JuggeR BackofficeTest973,CC,984819180,Bettie QATest940,123892,912317,1000000.0,07/05/2020,18:45:00,Ejecutivo,BAJA,,Prueba de embargos 1

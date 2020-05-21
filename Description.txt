@@ -3,4 +3,11 @@ agrego description JOhnathanE
 
 
 ---change by Angiee---
+<<<<<<< HEAD
 Cambio Maria A
+=======
+
+
+
+Ingreso Texto Nieto
+>>>>>>> 26375c230a99ba501fab3c14a1f29f23a5776ca7
